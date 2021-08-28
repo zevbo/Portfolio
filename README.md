@@ -2,9 +2,9 @@
 
 **Virtual Robot Mania**: https://github.com/zevbo/VirtualRobotMania
 
-During the summer aftrer high school senior year, the lack of robotics and socialization was really hitting me. So, I decided to knock out two birds with one stones. I took a couple weeks, and cobbled together a small scale car-like robot simulator in Scheme that was so easy for even beginners to code. I organized a few competitions centering around it for my extended family, and it was a ton of fun.
+During the summer aftrer high school senior year, the lack of robotics and socialization was really hitting me. So, I decided to knock out two birds with one stones. I took a couple weeks, and cobbled together a small scale car-like robot simulator in Scheme that was so easy for even beginners to code. I organized a competitions centering around it for my extended family, and it was a lot of fun.
 
-I'm currently re-writing the back-end in OCaml, to make it sustainable. Plus, I was kind of over-writing more than a thousand lines in an untyped language.
+I then re-wrote it with a closer focus on making it sustainable for multiple competitions. I changed programming languages to OCaml, I created an original 2d physics engine from scratch, and designed a standard system to make new competitions. If you're interested specifically in my physics engine, it can be found in this directory: https://github.com/zevbo/VirtualRobotMania/tree/master/ocaml/virtuality2d/src. The section of the simulator I am most proud of is how I deal with collisions, the code for which can be found here: https://github.com/zevbo/VirtualRobotMania/blob/master/ocaml/virtuality2d/src/body.ml#L709. 
 
 **Highschool Robotics**: https://github.com/SciBorgs/InfiniteRecharge-2020 and https://github.com/SciBorgs/DeepSpace-2019
 
