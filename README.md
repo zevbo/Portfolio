@@ -14,4 +14,4 @@ If you're interested, go to https://github.com/SciBorgs/InfiniteRecharge-2020 an
 
 **Small Projects**: 
 
-Honestly, sometimes all I want to do is write a short program to play a game or something, which I will generally write in Racket. A couple of fun examples are a connect 4 game with adjustable size (https://github.com/zevbo/Random-Racket-Stuff/blob/master/Adjustable%20Connect%204.rkt), a sudoko solver (https://github.com/zevbo/Random-Racket-Stuff/blob/master/sudokuSolver.rkt), and a program to show how images transform moving at relativistic speeds (https://github.com/zevbo/Java-Stuffs/blob/master/Modern%20Shapes/ModernShapes.java).
+Sometimes all I want to do is write a short program to play a game or something, which I will generally write in Racket. A couple of fun examples are a connect 4 game with adjustable size (https://github.com/zevbo/Random-Racket-Stuff/blob/master/Adjustable%20Connect%204.rkt), a sudoko solver (https://github.com/zevbo/Random-Racket-Stuff/blob/master/sudokuSolver.rkt), and a program to show how images transform moving at relativistic speeds (https://github.com/zevbo/Java-Stuffs/blob/master/Modern%20Shapes/ModernShapes.java).
